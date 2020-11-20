@@ -2,7 +2,7 @@ title:              Ponderer's Nook
 email:              sakshi.shrivastava1980@gmail.com
 description:        My place of musing
 author:             Sakshi Shrivastava
-baseurl:            "/portfolio"
+baseurl:            "startbootstrap-clean-blog-jekyll"
 url:                "https://github.com/ponderersnook"
 
 # Social Profiles
